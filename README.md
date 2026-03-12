@@ -1,117 +1,48 @@
 <h1 align="center">Jhonny Ribeiro</h1>
 
 <p align="center">
-Backend & Data Engineer  
+Backend & Data Engineer
 </p>
 
 <p align="center">
-Building scalable systems with <b>NestJS, Next.js, PostgreSQL and Python</b>
+Building scalable systems with NestJS, Next.js, PostgreSQL and Python
 </p>
 
 ---
 
-## About Me
+## About
 
-I design and build **data-driven backend systems and analytics platforms**.
+I build **data-driven backend systems and analytics platforms**.
 
-My main focus is building reliable systems that combine:
-
-• Scalable APIs  
-• Data pipelines  
-• Analytics dashboards  
-• Well structured architectures  
-
-I enjoy working at the intersection of **software engineering and data analysis**.
+Focused on combining **software engineering and data analysis** to create scalable applications, APIs and business intelligence systems.
 
 ---
 
-## Core Stack
+## Tech Stack
 
-### Backend
-- NestJS
-- Node.js
-- REST APIs
-- Clean Architecture
-- Domain Driven Design
+**Backend**
 
-### Frontend
-- Next.js
-- TypeScript
-- Modern UI/UX patterns
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### Data Engineering
-- Python
-- SQL
-- Data transformation
-- Analytics systems
+**Frontend**
 
-### Databases
-- PostgreSQL
-- Query optimization
-- Data modeling
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js)
+
+**Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## Engineering Principles
+## Architecture Interests
 
-The systems I build usually follow:
-
-- Clean Architecture
-- Domain Driven Design
-- Modular backend services
-- Strong separation between domain and infrastructure
-- Database-first thinking for data systems
-
----
-
-## Selected Projects
-
-### Grain Brokerage Management System
-
-System for managing grain brokerage operations between buyers and sellers.
-
-Features:
-
-- brokerage commission calculation
-- multi-company support
-- sales management
-- reporting and analytics
-
-Stack:
-
-- NestJS
-- Next.js
-- PostgreSQL
-
----
-
-### Business Intelligence Dashboard
-
-Data analysis platform used to visualize operational and financial metrics.
-
-Features:
-
-- automated reporting
-- dynamic dashboards
-- SQL based analytics
-- data transformation pipelines
-
-Stack:
-
-- Python
-- PostgreSQL
-- Dash
-
----
-
-### Data Pipeline Experiments
-
-Collection of projects focused on:
-
-- ETL processes
-- data ingestion
-- analytics modeling
-- SQL performance
+Clean Architecture • Domain Driven Design • Data Pipelines • Analytics Systems • Scalable APIs
 
 ---
 
@@ -124,18 +55,6 @@ Collection of projects focused on:
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyribeiro&layout=compact&theme=transparent"/>
 
 </p>
-
----
-
-## Interests
-
-Areas I enjoy working with:
-
-- Data Engineering
-- Backend Architecture
-- Analytics Systems
-- BI Platforms
-- Distributed systems
 
 ---
 
